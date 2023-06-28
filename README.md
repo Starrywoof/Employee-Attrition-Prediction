@@ -6,11 +6,11 @@ Competition Task: Given factors influencing employee attrition and records of wh
 ### 2. Missing Value Checking
 ### 3. Visual Analysis using Pyecharts
 
-![Screenshot 1](https://github.com/Starrywoof/Employee-Attrition-Prediction/blob/main/Pictures/Distance%20from%20Home.png)
+![Screenshot 1](https://github.com/Starrywoof/Virtual-Scene-Modeling-of-Robot-with-OpenGL/blob/main/Pictures/Schematic_Diagram_of_Model_Construction.png)
 
-![Screenshot 2](https://github.com/Starrywoof/Employee-Attrition-Prediction/blob/main/Pictures/Total%20Working%20Years.png)
+![Screenshot 2](https://github.com/Starrywoof/Virtual-Scene-Modeling-of-Robot-with-OpenGL/blob/main/Pictures/Schematic_Diagram_of_Model_Construction.png)
 
-![Screenshot 3](https://github.com/Starrywoof/Employee-Attrition-Prediction/blob/main/Pictures/Travel%20Time.png)
+![Screenshot 3](https://github.com/Starrywoof/Virtual-Scene-Modeling-of-Robot-with-OpenGL/blob/main/Pictures/Schematic_Diagram_of_Model_Construction.png)
 
 *Visualization*
 
@@ -20,7 +20,7 @@ Competition Task: Given factors influencing employee attrition and records of wh
 
 ### 2. Collinearity Analysis (Visualized using Heatmap)
 
-![Screenshot 4](https://github.com/Starrywoof/Employee-Attrition-Prediction/blob/main/Pictures/Heatmap.png)
+![Screenshot 4](https://github.com/Starrywoof/Virtual-Scene-Modeling-of-Robot-with-OpenGL/blob/main/Pictures/Schematic_Diagram_of_Model_Construction.png)
 
 *Heatmap*
 
@@ -39,9 +39,9 @@ Competition Task: Given factors influencing employee attrition and records of wh
 ### 3. Data Segmentation: Segmenting data related to age and salary.
 
 ## Model Construction:
-### 1. Random Forest: Accuracy of 0.876***
-### 2. Support Vector Machine: Accuracy of 0.879***
-### 3. Logistic Regression: Accuracy of 0.902857
+- Random Forest: Accuracy of 0.876***
+- Support Vector Machine: Accuracy of 0.879***
+- Logistic Regression: Accuracy of 0.902857
 
 ## Results:
 The logistic regression model achieved an accuracy of 0.90285 and ranked 13th out of 269 teams in the Data Castle Data Mining Competition.
