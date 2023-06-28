@@ -1,5 +1,5 @@
 # Employee Attrition Prediction
-Competition Task: Given factors influencing employee attrition and records of whether employees have resigned, build a model to predict employees who are likely to resign.
+Competition Task: Given factors influencing employee attrition and records of whether employees have resigned, build a model to predict employees who are likely to resign. The logistic regression model achieved an accuracy of 0.90285 and ranked 13th out of 269 teams in the Data Castle Data Mining Competition.
 
 ## Data Analysis Methods:
 ### 1. Exploring Data
