@@ -21,6 +21,7 @@ Competition Task: Given factors influencing employee attrition and records of wh
 ### 2. Collinearity Analysis (Visualized using Heatmap)
 
 ![Screenshot 4](https://github.com/Starrywoof/Employee-Attrition-Prediction/blob/main/Pictures/Heatmap.png)
+
 *Heatmap*
 
 ### 3. One-Hot Encoding
