@@ -39,9 +39,9 @@ Competition Task: Given factors influencing employee attrition and records of wh
 ### 3. Data Segmentation: Segmenting data related to age and salary.
 
 ## Model Construction:
-### 1. Random Forest: Accuracy of 0.876***
-### 2. Support Vector Machine: Accuracy of 0.879***
-### 3. Logistic Regression: Accuracy of 0.902857
+- 1. Random Forest: Accuracy of 0.876***
+- 2. Support Vector Machine: Accuracy of 0.879***
+- 3. Logistic Regression: Accuracy of 0.902857
 
 ## Results:
 The logistic regression model achieved an accuracy of 0.90285 and ranked 13th out of 269 teams in the Data Castle Data Mining Competition.
